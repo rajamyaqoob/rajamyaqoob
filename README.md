@@ -213,11 +213,11 @@ CGPA: 3.41 / 4.0
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamuhammadyaqoob25&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamyaqoob25&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamuhammadyaqoob25&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamyaqoob25&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
