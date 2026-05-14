@@ -1,3 +1,15 @@
+<style>
+    .github-stats {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+  .github-stats img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Raja Muhammad Yaqoob</h1>
 <h3 align="center">Senior Software Developer | Backend Developer | PHP & Laravel Specialist</h3>
 
