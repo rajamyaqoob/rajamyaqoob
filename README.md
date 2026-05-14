@@ -229,7 +229,6 @@ CGPA: 3.41 / 4.0
         alt="Raja Muhammad Yaqoob Top Languages"
         style="max-width:100%;"
       />
-
     </div>
   </div>
 </section>
