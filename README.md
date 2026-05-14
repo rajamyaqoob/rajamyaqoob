@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jacob 👋
 
-<!--
-**rajamyaqoob/rajamyaqoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- PhD Student at University of Palermo
+- Research in Speaker Recognition / Biometrics / Deep Learning
+- Python, PyTorch, Laravel, PHP Developer
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- PyTorch
+- Machine Learning
+- Speaker Verification
+- Laravel
+- MySQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### STOPA Implementation
+Short description...
+
+### Speaker Verification System
+Short description...
+
+## Publications
+- Paper title...
+- Conference...
+
+## Contact
+- LinkedIn
+- Email
