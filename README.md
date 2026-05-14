@@ -209,15 +209,15 @@ CGPA: 3.41 / 4.0
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajamyaqoob25&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajamyaqoob&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamyaqoob25&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamyaqoob&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamyaqoob25&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajamyaqoob&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -228,7 +228,7 @@ CGPA: 3.41 / 4.0
   <a href="mailto:rajamuhammadyaqoob25@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/rajamuhammadyaqoob25">
+  <a href="https://github.com/rajamyaqoob">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" />
   </a>
 </p>
