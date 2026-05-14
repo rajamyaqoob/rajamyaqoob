@@ -210,12 +210,12 @@ CGPA: 3.41 / 4.0
 <section id="github">
   <div class="section-title">
     <h2>GitHub Stats</h2>
-    <div class="content" style="text-align:center; align:center">
+    <div class="content github-stats">
       <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=rajamyaqoob&theme=github-dark-blue&hide_border=true"
         alt="Raja Muhammad Yaqoob GitHub Streak"
-        style="max-width:100%; margin-bottom:20px;"
       />
+    </div>
   </div>
 </section>
 
