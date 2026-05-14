@@ -223,7 +223,6 @@ CGPA: 3.41 / 4.0
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajamyaqoob&theme=github-dark-blue&hide_border=true" alt="Raja Muhammad Yaqoob GitHub Streak" />
 </div>
----
 
 ## 📫 Contact Me
 
