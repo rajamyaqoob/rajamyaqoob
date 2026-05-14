@@ -5,8 +5,8 @@
   <a href="mailto:rajamuhammadyaqoob25@gmail.com">
     <img src="https://img.shields.io/badge/Email-rajamuhammadyaqoob25%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/rajamuhammadyaqoob25">
-    <img src="https://img.shields.io/badge/GitHub-rajamuhammadyaqoob25-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/rajamyaqoob">
+    <img src="https://img.shields.io/badge/GitHub-rajamyaqoob-black?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Location-Italy-blue?style=for-the-badge&logo=googlemaps" />
 </p>
